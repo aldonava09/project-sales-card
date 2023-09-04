@@ -14,11 +14,11 @@ This project is a React-based landing page designed and developed to promote a s
 1. Clone this repository to your local machine.
 2. Navigate to the project folder.
 3. Run `npm install` to install dependencies.
-4. Run `npm start` to launch the development server and view the page in your browser.
+4. Run `npm start` to launch the development server and view the page in your favorite browser.
 
 ## Contributions
 
-Contributions are welcome. If you discover any bugs, have suggestions, or improvements, feel free to open an issue or submit a pull request.
+Contributions are welcome. If you discover any bugs, have suggestions, or improvements, feel free to open an issue or submit a pull request. 
 
 ## Author
 
